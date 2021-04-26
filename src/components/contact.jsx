@@ -134,8 +134,10 @@ class Contact extends React.Component {
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              <span className="ico-circle">
+                              <span className="ico-circle" >
+                              <a href="https://github.com/Jyoti28490">
                                 <i className="ion-social-github"></i>
+                              </a>
                               </span>
                             </a>
                           </li>
@@ -146,7 +148,9 @@ class Contact extends React.Component {
                               rel="noopener noreferrer"
                             >
                               <span className="ico-circle">
+                                <a href="https://www.linkedin.com/in/jyotirmayi-swain-a670b8134/">
                                 <i className="ion-social-linkedin"></i>
+                                </a>
                               </span>
                             </a>
                           </li>

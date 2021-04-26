@@ -1,8 +1,8 @@
 import React from "react";
 import $ from "jquery";
 
-import logo1 from "../img/male1.png";
-import logo2 from "../img/male.png";
+import logo1 from "../img/woman.png";
+import logo2 from "../img/woman-1.png";
 
 class Navbar extends React.Component {
   constructor() {
@@ -116,14 +116,14 @@ class Navbar extends React.Component {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
+              {/* <li className="nav-item">
                 <a className="nav-link js-scroll" href="#about">
                   About
                 </a>
-              </li>
+              </li> */}
               <li className="nav-item">
                 <a className="nav-link js-scroll" href="#work">
-                  Work
+                  Projects
                 </a>
               </li>
               <li className="nav-item">
