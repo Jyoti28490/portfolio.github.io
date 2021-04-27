@@ -110,7 +110,7 @@ class Contact extends React.Component {
                           Simply fill the from and send me an email.
                         </p>
                        <ul class="list-ico">
-                                <li><span class="ion-ios-telephone"></span>(+91) 829661466 </li>
+                                <li><span class="ion-ios-telephone"></span>(+91) 8296614666 </li>
                                 <li><span class="ion-email"></span> jyotirmayi.swain@gmail.com</li>
                                 </ul>
                       </div>
