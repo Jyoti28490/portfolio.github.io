@@ -109,11 +109,10 @@ class Contact extends React.Component {
                           <br />
                           Simply fill the from and send me an email.
                         </p>
-                        {/* <!-- <ul class="list-ico">
-                                <li><span class="ion-ios-location"></span> 329 WASHINGTON ST BOSTON, MA 02108</li>
-                                <li><span class="ion-ios-telephone"></span> (617) 557-0089</li>
-                                <li><span class="ion-email"></span> contact@example.com</li>
-                                </ul> --> */}
+                       <ul class="list-ico">
+                                <li><span class="ion-ios-telephone"></span>(+91) 829661466 </li>
+                                <li><span class="ion-email"></span> jyotirmayi.swain@gmail.com</li>
+                                </ul>
                       </div>
                       <div className="socials">
                         <ul>
@@ -123,17 +122,7 @@ class Contact extends React.Component {
                               target="_blank"
                               rel="noopener noreferrer"
                             >
-                              <span className="ico-circle">
-                                <i className="ion-social-codepen"></i>
-                              </span>
-                            </a>
-                          </li>
-                          <li>
-                            <a
-                              href=""
-                              target="_blank"
-                              rel="noopener noreferrer"
-                            >
+                              
                               <span className="ico-circle" >
                               <a href="https://github.com/Jyoti28490">
                                 <i className="ion-social-github"></i>
